@@ -11,3 +11,8 @@ Wokwi
 2) OLED-DISPLAY
 3) HC-SR04
 
+# Main Libraries Used
+
+1) SSD1306
+2) Adafruit_GFX
+
