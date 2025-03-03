@@ -1,7 +1,7 @@
-# arduinoDistanceCalculator
+# Distance Calculator(Arduino-UNO)
 This is the code containing the diagram.json file and .ino file for the simple distance calulator made using arduino UNO , OLED DISPLAY and ULTRASONIC SENSOR .
 
-# SIMULATOR USED
+# Simulator Used
 
 Wokwi 
 
